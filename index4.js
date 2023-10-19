@@ -1,4 +1,4 @@
-var passowrd = "exileisgood!";
+var passowrd = "test";
 
 function passcheck() {
 if(document.getElementById('pass1').value != passowrd) {
